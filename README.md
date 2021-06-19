@@ -4,4 +4,4 @@
 #
 #ENG: Tic Tac Toe made using Pygame and Numpy.
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/63914002/122655084-42866b00-d126-11eb-975c-2be7f0a1c97e.gif)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/63914002/122655170-f2f46f00-d126-11eb-8a50-ba598281ccdd.gif)
