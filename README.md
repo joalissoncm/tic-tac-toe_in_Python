@@ -1,6 +1,5 @@
 # tic-tac-toe_in_Python
-#PORT: Jogo feito usando as bibliotecas Pygame e Numpy
+#PORT: Jogo feito usando as bibliotecas Pygame e Numpy.
 #
 #
-#
-#ENG:
+#ENG: Game made using Pygame and Numpy.
